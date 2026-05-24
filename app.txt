@@ -4,4 +4,4 @@ added payment feature.
 Added dark mode.
 Added light mode.
 For loop added;
-Continue is used for skip iteration
+Continue is used for skip iteration...
