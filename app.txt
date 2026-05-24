@@ -5,4 +5,4 @@ Added dark mode.
 Added light mode.
 Signup and login form added,
 Authetication functionality added,
-Rest api created
+Rest api created..
