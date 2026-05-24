@@ -4,3 +4,13 @@ added payment feature.
 Added dark mode.
 Added light mode.
 For loop added;
+Continue is used for skip iteration...
+
+Signup and login form added,
+Authetication functionality added,
+Rest api created..
+messaging  queue implemented
+Cache system implemented
+----------
+Again Code modified......
+loop added
